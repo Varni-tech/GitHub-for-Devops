@@ -1,1 +1,24 @@
 Hello, How are You?
+    ls
+    cd Desktop/
+    ls
+    cat Azure\ Daily\ Task\ Report.xlsx
+    clear
+    ls
+    cat HRMS.url
+    cat Odoo.lnk
+    cat Visual\ Studio\ Code.lnk
+    clear
+    ls
+    cat desktop.ini
+    cat HRMS.url
+    cleanmgr.exe
+    CleanPCCSP.dll
+    clear.exe
+    git init
+    touch Test.txt
+    echo Hello, I am Varni Varni Patel
+    echo Hello, I am Varni Varni Patel > Test.txt
+    CAT Test.txt
+    GIT ADD Test.txt
+    GIT add Test.txt
